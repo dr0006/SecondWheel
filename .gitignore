@@ -1,7 +1,2 @@
-# 这是注释，以 '#' 开头
-#*.log           # 忽略所有以 .log 结尾的文件
-#build/          # 忽略 build/ 目录及其内容
-#secret.txt      # 忽略特定文件 secret.txt
-
 /.idea/
-设计报告.docx
+璁捐鎶ュ憡.docx
